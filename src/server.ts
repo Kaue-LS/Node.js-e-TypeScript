@@ -1,5 +1,3 @@
-console.log('Hello Dev!')
+import { app } from "./app";
 
-// Digite no terminal npx tsc
-
-// :Vai gerar a pasta build
+app.listen(3333)
